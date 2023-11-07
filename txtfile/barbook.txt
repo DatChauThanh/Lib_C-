@@ -1,0 +1,22 @@
+Ma sach,Ten Sach,Ngay muon,Ngay tra,Luot muon sach,Ma doc gia muon sach
+10000,Conan,2023-11-03,2023-10-09,9,100007
+10001,Harry Potter,,,3,0
+10002,To Kill a Mockingbird,,,1,0
+10003,The Great Gatsby,2023-11-03,,2,100012
+10004,The Catcher in the Rye,2023-11-03,,4,100012
+10005,1984,2023-10-02,2023-11-02,2,100003
+10006,The Hobbit,,,3,0
+10007,Pride and Prejudice,2023-10-15,,1,100007
+10008,The Alchemist,2023-10-01,2023-10-31,1,100009
+10009,The Lord of the Rings,2023-11-02,2023-11-02,2,100008
+10010,The Da Vinci Code,2023-10-29,2023-11-02,2,100008
+10011,The Hunger Games,2023-10-29,,1,100002
+10012,The Road,2023-10-29,,1,100003
+10013,The Shining,2023-10-15,2023-11-02,1,100005
+10014,The Girl with the Dragon Tattoo,,,1,0
+75363,Conan,2023-11-04,,1,100010
+62537,The Catcher in the Rye,2023-11-04,,1,100010
+96315,Harry Potter,2023-11-04,,1,100010
+60554,Conan,2023-11-06,,1,105514
+40424,The Catcher in the Rye,2023-11-06,,1,105514
+63490,Conan,2023-11-07,,1,100013
